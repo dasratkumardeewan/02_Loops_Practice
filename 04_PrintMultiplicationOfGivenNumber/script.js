@@ -1,3 +1,4 @@
+// This Program Prints Multiplication Table
 let table = Number(prompt("Enter A Number To Get Its Multiplication Table"));
 
 while (isNaN(table)) {
